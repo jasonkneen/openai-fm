@@ -29,7 +29,7 @@ html.dark {
   --color-black-50: rgba(255, 255, 255, 0.5);
   /* Lighting settings override for dark mode */
   --lighting-color: 255,255,255;
-  --lighting-opacity: 0.1;
+  --lighting-opacity: 0.05;
   --lighting-scale: 1;
 }
 /* Utility class for panel/input backgrounds, uses theme variable */
